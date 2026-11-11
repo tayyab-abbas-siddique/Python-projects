@@ -112,4 +112,20 @@ if fifth_q == "D":
 else:
     print("Incorrect Answer! The correct answer was Guido van Rossum")
 
-# Final 
+# Final Result
+incorrect = 5 - count
+percent = count * 10 * 2
+
+print("-------------------------------------")
+
+print("Quiz completed!")
+
+print(f"""
+Total questions: 5
+Correct answers: {count}
+Incorrect answers: {incorrect}
+Final Score: {count}/5
+Final Percontage: {percent}% 
+""")
+
+print("-------------------------------------")
