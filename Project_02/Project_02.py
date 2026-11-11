@@ -1,4 +1,4 @@
-# Introduction
+# Introduction of problem
 print("================================")
 print("PYTHON QUIZ APPLICATION")
 print("================================")
