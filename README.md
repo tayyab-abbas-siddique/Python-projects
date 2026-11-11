@@ -13,19 +13,7 @@ This repository contains Python projects that I build to improve my programming 
 - Explore Python libraries and modules.
 - Build projects from beginner to advanced level.
 
-## 📚 Project Levels
 
-### 🟢 Beginner
-
-Simple projects to strengthen Python fundamentals.
-
-### 🟡 Intermediate
-
-Projects involving OOP, file handling, APIs, and modules.
-
-### 🔴 Advanced
-
-Complex applications involving databases, automation, web development, and other technologies.
 
 ## 🛠️ Technologies
 
